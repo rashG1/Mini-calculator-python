@@ -3,6 +3,7 @@ from math import sqrt
 
 expression = ""
 memory = 0
+#only did several cal_functions
 
 def press(num):
     global expression
